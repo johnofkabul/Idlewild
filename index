@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Idlewild Technologies</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
+                   Roboto, Helvetica, Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #ffffff;
+      color: #111;
+      line-height: 1.6;
+    }
+
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 60px 30px;
+    }
+
+    h1 {
+      font-size: 2.5rem;
+      margin-bottom: 0.5rem;
+    }
+
+    h2 {
+      font-size: 1.4rem;
+      margin-top: 2.5rem;
+      margin-bottom: 0.5rem;
+      border-bottom: 1px solid #ddd;
+      padding-bottom: 0.3rem;
+    }
+
+    .tagline {
+      font-size: 1.2rem;
+      color: #444;
+      margin-bottom: 2rem;
+    }
+
+    p {
+      margin-bottom: 1.2rem;
+    }
+
+    a {
+      color: #0055cc;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    footer {
+      margin-top: 4rem;
+      font-size: 0.9rem;
+      color: #666;
+      border-top: 1px solid #eee;
+      padding-top: 1rem;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    <h1>Idlewild Technologies</h1>
+    <div class="tagline">
+      Carbon-based can-do.
+    </div>
+
+    <p>
+      Idlewild Technologies develops advanced carbon-based conductors
+      and materials for extreme electrical, thermal, and mechanical
+      environments.
+    </p>
+
+    <p>
+      Our work spans carbon nanotube fibers, hybrid carbon systems,
+      and electrically active materials engineered for aerospace,
+      energy, and scientific instrumentation applications.
+    </p>
+
+    <h2>Technology Focus</h2>
+    <p>
+      We focus on scalable carbon architectures that combine
+      high specific conductivity, mechanical robustness,
+      and functional integration with electromagnetic and thermal systems.
+    </p>
+
+    <h2>Contact</h2>
+    <p>
+      For technical inquiries or collaboration:
+      <br>
+      <a href="mailto:carbon@idlewildtech.com">carbon@idlewildtech.com</a>
+    </p>
+
+    <footer>
+      © Idlewild Technologies
+    </footer>
+  </div>
+</body>
+</html>
